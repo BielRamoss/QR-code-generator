@@ -1,7 +1,7 @@
 # QR-code-generator
 QR code generator created by me during the bootcamp of web development
 
-#Install Node
+# Install Node
   Download node at https://nodejs.org/en
   
 # Install Libs
